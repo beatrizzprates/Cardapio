@@ -1,0 +1,28 @@
+img {
+  border-radius: 500px;
+  width: 150px;
+  height: 150px; 
+}
+section {
+  background-image: url('https://img.freepik.com/fotos-gratis/moldura-de-bolo-com-copia-espaco_23-2148536888.jpg?size=626&ext=jpg&ga=GA1.2.550104929.1690398310&semt=country_rows_v2');
+    background-size: cover;
+    background-repeat: no-repeat;
+ font-family: 'Borel', cursive;
+}
+
+#cabecalho {
+  text-align: center;
+}
+div {
+  text-align: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h3 {
+  margin-bottom: 2px
+}
+
+p {
+  margin-top: 2px
+}
